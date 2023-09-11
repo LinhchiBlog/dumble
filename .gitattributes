@@ -1,0 +1,2 @@
+image-product/Git-2.42.0.2-64-bit.exe filter=lfs diff=lfs merge=lfs -text
+image-product/GitHubDesktopSetup-x64.exe filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,33 @@
+/* MAIN */
+.infomation-products{
+    margin: 0 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+/* .product{
+    display: flex;
+} */
+.product{
+    border: 1px solid #087f5bac;
+    border-radius: 15px;
+    overflow: hidden;
+}
+.link-product{
+    display: flex;
+    align-items: center;
+    height: 15rem;
+    text-decoration: none;
+}
+.image-product{
+    height: 15rem;
+    border-radius: 5px;
+}
+.name-product{
+    color: #495057;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-left: 4rem;
+}
+
+
